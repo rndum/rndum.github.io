@@ -64,13 +64,13 @@ body {
   position: relative;
   max-width: 800px;
   margin: 2em auto 4em;
-  padding-left: 120px;
+  padding-left: 200px;
 }
 
 .timeline::before {
   content: '';
   position: absolute;
-  left: 60px;
+  left: 140px;
   top: 0;
   height: 100%;
   width: 2px;
@@ -84,7 +84,7 @@ body {
 
 .timeline-date {
   position: absolute;
-  left: -140px;
+  left: -200px;
   top: 5px;
   width: 60px;
   text-align: right;
@@ -107,7 +107,7 @@ body {
 
 .timeline-icon {
   position: absolute;
-  left: -70px;
+  left: -120px;
   top: -5px;
   width: 50px;
   height: 50px;
@@ -162,13 +162,21 @@ body {
   }
   
   .timeline {
-    margin-left: 60px;
-    padding-left: 80px;
+    margin-left: 40px;
+    padding-left: 100px;
+  }
+  
+  .timeline::before {
+    left: 70px;
   }
   
   .timeline-date {
-    left: -90px;
-    width: 40px;
+    left: -100px;
+    width: 50px;
+  }
+  
+  .timeline-dot {
+    left: -35px;
   }
   
   .timeline-icon {
