@@ -10,11 +10,13 @@ body {
 
 .header {
   display: flex;
-  align-items: flex-start;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
   padding: 3em 1em 2em;
   max-width: 800px;
   margin: 0 auto;
-  gap: 2em;
+  gap: 3em;
 }
 
 .profile-img {
