@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 <div class="timeline-item">
     <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
