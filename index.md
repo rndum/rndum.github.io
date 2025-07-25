@@ -33,7 +33,7 @@ layout: default
   <div class="timeline-dot"></div>
   <img src="/assets/images/fsu.png" class="timeline-icon" />
   <div class="timeline-content">
-    <p>My PhD was focused on Corporate Finance and specialized in Trust and Punishment. My adviser was <a href="https://business.fsu.edu/person/casey-dougal"> Casey Dougal </a>, at Florida State University College of Business. I have the pleasure of working with <a href="https://www.lsu.edu/business/directory/employee-profiles/cheng-yingmei-finance.php"> Yingmei Cheng </a>, <a href="https://business.fsu.edu/person/irena-hutton"> Irena Hutton </a>, and <a href="https://business.fsu.edu/person/landon-mauler"> Landon Mauler </a> .</p> 
+    <p>My PhD was focused on Corporate Finance and specialized in Trust and Punishment. My adviser was <a href="https://business.fsu.edu/person/casey-dougal"> Casey Dougal </a>, at Florida State University College of Business. I had the pleasure of working with <a href="https://www.lsu.edu/business/directory/employee-profiles/cheng-yingmei-finance.php"> Yingmei Cheng </a>, <a href="https://business.fsu.edu/person/irena-hutton"> Irena Hutton </a>, and <a href="https://business.fsu.edu/person/landon-mauler"> Landon Mauler </a> .</p> 
     <p> 
       Along the way I synthesized my own PhD/JD by earned a J.D. from Syracuse University, which ultimately informed my dissertation on the effectiveness of punishment, based on my learns from Criminal Law.
     </p>
