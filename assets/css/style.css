@@ -64,13 +64,13 @@ body {
   position: relative;
   max-width: 800px;
   margin: 2em auto 4em;
-  padding-left: 180px;
+  padding-left: 280px;
 }
 
 .timeline::before {
   content: '';
   position: absolute;
-  left: 120px;
+  left: 220px;
   top: 0;
   height: 100%;
   width: 2px;
@@ -84,7 +84,7 @@ body {
 
 .timeline-date {
   position: absolute;
-  left: -180px;
+  left: -260px;
   top: 5px;
   text-align: right;
   font-weight: 700;
