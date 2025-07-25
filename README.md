@@ -1,1 +1,1 @@
-This is a personal site in the style of karpathy.ai. Built using Jekyll and custom CSS.
+This is a personal site built using Jekyll and custom CSS.
