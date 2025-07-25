@@ -84,15 +84,15 @@ body {
 
 .timeline-date {
   position: absolute;
-  left: -150px;
+  left: -160px;
   top: 5px;
   text-align: right;
   font-weight: 700;
   color: #777;
   font-size: 1.1em;
   white-space: nowrap;
-  min-width: 85px;
-  padding-right: 10px;
+  width: 85px;
+  padding-right: 5px;
 }
 
 .timeline-dot {
@@ -125,7 +125,7 @@ body {
 }
 
 .timeline-content {
-  padding-left: 70px;
+  padding-left: 110px;
 }
 
 .timeline-content p {
