@@ -1,6 +1,10 @@
 
+---
+layout: default
+---
+
 <div class="timeline-item">
-    <div class="timeline-date">2025</div>
+  <div class="timeline-date">2025</div>
   <div class="timeline-dot"></div>
   <img src="/assets/images/ucf.jpg" class="timeline-icon" />
   <div class="timeline-content">
@@ -10,6 +14,9 @@
       <li><a href="#">Teaching Intermediate Corporate Finance - FIN 3414</a></li>
     </ul>
   </div>
+</div>
+
+<div class="timeline-item">
   <div class="timeline-date">2024</div>
   <div class="timeline-dot"></div>
   <img src="/assets/images/pepperdine.jpg" class="timeline-icon" />
