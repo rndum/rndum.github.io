@@ -9,40 +9,47 @@ body {
 }
 
 .header {
-  text-align: center;
+  display: flex;
+  align-items: flex-start;
   padding: 3em 1em 2em;
   max-width: 800px;
   margin: 0 auto;
-}
-
-.header h1 {
-  margin: 0.5em 0 0.2em;
-  font-size: 2em;
-  font-weight: 600;
+  gap: 2em;
 }
 
 .profile-img {
-  width: 160px;
-  height: 160px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
-  margin-bottom: 0.5em;
   object-fit: cover;
+  flex-shrink: 0;
+}
+
+.header-text {
+  flex: 1;
+  text-align: left;
+}
+
+.header h1 {
+  margin: 0 0 0.3em;
+  font-size: 2.2em;
+  font-weight: 600;
 }
 
 .tagline {
   font-size: 1.1em;
   color: #666;
-  margin: 0.5em auto;
-  max-width: 600px;
+  margin: 0 0 1em;
+  line-height: 1.5;
 }
 
 .social-icons {
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 
 .social-icons a {
-  margin: 0 0.5em;
-  font-size: 1.5em;
+  margin-right: 1em;
+  font-size: 1.3em;
   text-decoration: none;
   color: #333;
 }
@@ -133,4 +140,36 @@ body {
 
 .timeline-content a:hover {
   text-decoration: underline;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    text-align: center;
+    gap: 1em;
+  }
+  
+  .header-text {
+    text-align: center;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .timeline {
+    margin-left: 60px;
+    padding-left: 80px;
+  }
+  
+  .timeline-date {
+    left: -90px;
+    width: 40px;
+  }
+  
+  .timeline-icon {
+    display: none;
+  }
 }
