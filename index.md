@@ -7,7 +7,7 @@ layout: default
   <div class="timeline-dot"></div>
   <img src="/assets/images/ucf.png" class="timeline-icon" />
   <div class="timeline-content">
-    <p>I started faculty role at <a href="https://www.ucf.edu/">University of Central Florida</a>, one of the largest R1 institution in the world.</p>
+    <p>I started faculty role at <a href="https://www.ucf.edu/">University of Central Florida</a>, one of the largest R1 institutions in the world.</p>
     <ul>
       <li><a href="#">Teaching Investments - FIN 4504</a></li>
       <li><a href="#">Teaching Intermediate Corporate Finance - FIN 3414</a></li>
