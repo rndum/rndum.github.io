@@ -49,7 +49,7 @@ layout: default
   <div class="timeline-dot"></div>
   <img src="/assets/images/jacobsen.jpg" class="timeline-icon" />
   <div class="timeline-content">
-    <p>Worked as a price reporting analyst for <a href="https://thejacobsen.com/">The Jaconsen</a>, which was acquired by Fastmarkets. I built Python scripts to automate the sourcing of USDA and trade data, improving data and model accuracy while reducing manual ETL processes. </p> 
+    <p>Worked as a price reporting analyst for <a href="https://thejacobsen.com/">The Jacobsen</a>, which was acquired by Fastmarkets. I built Python scripts to automate the sourcing of USDA and trade data, improving data and model accuracy while reducing manual ETL processes. </p> 
   </div>
 </div>
 
