@@ -1,0 +1,20 @@
+{
+    "name": "Rodney Ndum",
+    "tagline": "Finance Professor & Researcher",
+    "avatar": "/assets/images/profile.png",
+    "socials": [
+        {
+            "icon": "github",
+            "link": "https://github.com/rndum"
+        },
+        {
+            "icon": "email",
+            "link": "mailto:rodney.ndum@ucf.edu"
+        },
+        {
+            "icon": "blog",
+            "link": "https://blog.rodneyndum.com/"
+        }
+    ],
+    "bio": "I am a finance professor at the University of Central Florida, where I teach investments and corporate finance. My research focuses on corporate finance, intellectual property, trust, and punishment mechanisms. I hold a Ph.D. in Finance from Florida State University and a J.D. from Syracuse University."
+}

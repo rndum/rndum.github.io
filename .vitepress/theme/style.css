@@ -1,0 +1,64 @@
+:root {
+  --vp-c-bg: #ffffff;
+  --vp-c-text-1: #333333;
+  --vp-c-text-2: #666666;
+  --vp-c-brand: #0000ee; /* Traditional link blue style */
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  
+  --content-max-width: 800px;
+}
+
+body {
+  font-family: var(--vp-font-family-base);
+  color: var(--vp-c-text-1);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--vp-c-brand);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  color: #111;
+}
+
+.vp-doc h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Hide default VP features if we want a pure custom look */
+.VPSidebar, .VPNav, .VPFooter {
+  display: none !important;
+}
+
+/* Make the main content area full width/centered */
+.VPContent {
+  padding-top: 0 !important;
+}
+
+.VPContent .container {
+  max-width: 100% !important; /* Reset VP default */
+}
+
+/* Custom Utilities based on Karpathy's site */
+.section-title {
+  font-size: 2rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+}

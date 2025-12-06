@@ -1,0 +1,37 @@
+[
+    {
+        "year": "2025 - Present",
+        "logo": "/assets/images/ucf.png",
+        "content": "I started faculty role at <a href='https://www.ucf.edu/'>University of Central Florida</a>, one of the largest R1 institutions in the world.<ul><li>Teaching AI Foundations in Finance - FIN 3930</li><li>Teaching Investments - FIN 4504</li><li>Teaching Intermediate Corporate Finance - FIN 3414</li></ul>"
+    },
+    {
+        "year": "2024 - 2025",
+        "logo": "/assets/images/pepperdine.jpg",
+        "content": "I started tenure-track role at <a href='https://www.pepperdine.edu/'>Pepperdine University</a>, a Christian liberal arts college in Malibu, CA.<ul><li>Taught Investments - BA 448</li><li>Taught Intro to Corporate Finance - BA 321</li></ul>"
+    },
+    {
+        "year": "2019 - 2024",
+        "logo": "/assets/images/fsu.png",
+        "content": "My PhD was focused on Corporate Finance and specialized in Trust and Punishment. My adviser was <a href='https://business.fsu.edu/person/casey-dougal'>Casey Dougal</a>, at Florida State University College of Business. I had the pleasure of working with <a href='https://www.lsu.edu/business/directory/employee-profiles/cheng-yingmei-finance.php'>Yingmei Cheng</a>, <a href='https://business.fsu.edu/person/irena-hutton'>Irena Hutton</a>, and <a href='https://business.fsu.edu/person/landon-mauler'>Landon Mauler</a>.<p>Along the way I synthesized my own PhD/JD by earning a J.D. from Syracuse University, which ultimately informed my dissertation on the effectiveness of punishment, based on my learnings from Criminal Law.</p><ul><li>Taught Intermediate Corporate Finance - FIN 4424</li><li>Taught Financial Modeling in Excel - FIN 4453</li></ul>"
+    },
+    {
+        "year": "2018 - 2019",
+        "logo": "/assets/images/jacobsen.jpg",
+        "content": "Worked as a price reporting analyst for <a href='https://thejacobsen.com/'>The Jacobsen</a>, which was acquired by Fastmarkets. I built Python scripts to automate the sourcing of USDA and trade data, improving data and model accuracy while reducing manual ETL processes."
+    },
+    {
+        "year": "2017 - 2018",
+        "logo": "/assets/images/facebook.jpg",
+        "content": "I was a Project Manager IV at <a href='https://www.facebook.com/'>Facebook</a>, working in Graph Integrity across global markets on account authenticity and hacking-related issues."
+    },
+    {
+        "year": "2015 - 2017",
+        "logo": "/assets/images/ufmba.png",
+        "content": "Two year MBA at the University of Florida Warrington School of Business focused in Strategy. I interned at <a href='https://www.delta.com/us/en/about-delta/corporate-information'>Delta Airlines</a>."
+    },
+    {
+        "year": "2012 - 2014",
+        "logo": "/assets/images/uf.png",
+        "content": "BSc in Computer Science Engineering from the University of Florida with a pre-med minor. During my time at UF, I worked at <a href='https://mbi.ufl.edu/'>the Burke and Maurer Lab at the McKnight Brain Institute</a>. My work focused on building a computer vision-based machine learning system to track rodent gait for research on age-related cognitive decline.<br><img src='/assets/images/rodent-gait.gif' alt='Rodent gait tracking demo' width='400' style='margin-top: 1rem;' />"
+    }
+]
